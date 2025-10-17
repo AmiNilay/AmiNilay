@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/naha_nilay" target="blank"><img src="https://img.shields.io/twitter/follow/naha_nilay?logo=twitter&style=for-the-badge" alt="naha_nilay" /></a> </p>
 
-- 🔭 I’m currently working on **Own Blog Website**
+- 🔭 I’m currently working on **AI-Based Cyberattack Detection System**
 
 - 📫 How to reach me **niloynaha2003@gmail.com**
 
