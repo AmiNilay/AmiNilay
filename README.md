@@ -8,7 +8,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on an **AI-Based Cyberattack Detection System**.
+- 🔭 I’m currently working on an **AI-Based Indian Sign Language Translator**.
 - 📫 How to reach me: [niloynaha2003@gmail.com](mailto:niloynaha2003@gmail.com)
 
 ---
